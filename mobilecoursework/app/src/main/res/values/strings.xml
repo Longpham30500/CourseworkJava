@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mobilecoursework</string>
+    <string name="invalid_name" />
+    <string name="invalid_destination" />
+    <string name="invalid_date" />
+    <string name="invalid_require" />
+    <string name="validate_name">please input name trip</string>
+    <string name="validate_destination">please input destination</string>
+    <string name="validate_require">please input yes/no</string>
+    <string name="validate_date">please input date</string>
+    <string name="validate_type">please input type</string>
+    <string name="validate_cost">please input cost</string>
+</resources>
